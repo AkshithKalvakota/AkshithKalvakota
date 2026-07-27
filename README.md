@@ -26,7 +26,7 @@
 
 ## 🟣 About Me
 
-```yaml
+
 engineer:
   name: "Kalvakota Akshith"
   role: "Full Stack Software Engineer | AI/ML Enthusiast"
@@ -37,7 +37,8 @@ engineer:
     - "Translating business requirements into reliable, data-driven solutions"
     - "Deploying end-to-end products across AWS, Vercel, Render & Neon"
   mindset: "Product-oriented engineer who ships end-to-end, not just prototypes"
-```
+  
+---
 
 I'm a Computer Science Engineering student who builds **complete, deployed software systems** — not just isolated scripts. My work spans full-stack SaaS platforms, Retrieval-Augmented Generation assistants, and computer-vision-driven analytics tools, backed by a strong foundation in data structures, algorithms, and software design principles.
 
